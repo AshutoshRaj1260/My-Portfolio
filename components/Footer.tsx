@@ -22,13 +22,13 @@ const Footer = () => {
         </h1>
 
         <p className="text-[#C1C2D3] md:mt-10 text-center my-5">
-          Reach out to me today and lets discuss how I can help you achieve
+          Reach out to me today and let's discuss how I can help you achieve
           your goals.{" "}
         </p>
 
         <a href="mailto:ashutoshrajofficial@gmail.com">
           <MagicButton
-            title={`"Let{&apos}s get in touch"`}
+            title="Let&apos;s get in touch"
             icon={<FaLocationArrow />}
             position="right"
           />
