@@ -70,20 +70,26 @@ export const gridItems = [
 ];
 
 export const projects = [
-  // {
-  //   id: 1,
-  //   title: "3D Solar System Planets to Explore",
-  //   des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-  //   img: "/p1.svg",
-  //   iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-  //   link: "https://github.com/adrianhajdin?tab=repositories",
-  // },
+  {
+    id: 1, // Or the next available ID
+    title: "FoodGram - MERN Stack App",
+    des: "A full-stack video-sharing app for food discovery, inspired by TikTok/Reels. Features separate user and partner portals.",
+    img: "/foodgram.png", // You will need to create a preview image and add it as 'foodgram.png'
+    iconLists: [
+      "/re.svg",
+      "/node.svg",
+      // "/express.jpg",
+      "/mongo.svg",
+      // "/render.svg",
+    ],
+    link: "https://github.com/AshutoshRaj1260/FoodGram",
+  },
   {
     id: 2,
     title: "GDGC - Official Website",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    des: "The official, fully responsive website for GDGC MSIT, built from scratch using pure HTML, CSS, and vanilla JavaScript.",
     img: "/GdgcProject.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    iconLists: ["/html.png", "/css.svg", "/js.png"],
     link: "https://gdgcmsit.netlify.app/",
   },
   // {

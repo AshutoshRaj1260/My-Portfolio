@@ -5,9 +5,9 @@ import { Button } from './ui/moving-border'
 const Experience = () => {
   return (
     <div className='py-20' id='experience'>
-        <h1 className='font-bold text-4xl md:text-5xl text-center'>
+        <h1 className='font-bold text-4xl md:text-5xl text-center text-white'>
             My
-            <span className='text-purple-300'>Work Experience
+            <span className='text-purple-300'> Work Experience
             </span>
         </h1>
         <div className='w-full mt-12 grid lg:grid-cols-4 grid-cols-1 gap-10'>
