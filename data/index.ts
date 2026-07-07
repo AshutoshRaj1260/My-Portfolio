@@ -75,23 +75,21 @@ export const projects = [
     title: "AI Orchestration & Web Analytics Engine",
     des: "A REAL Software-as-a-Service app with AI features and a website analyzer using the latest tech stack.",
     img: "/lumenAI.png",
-    iconLists: ["/re.svg", "/node.svg", "/mongo.svg"],
+    iconLists: ["/re.svg", "/node.svg", "/mongo.svg", "/tail.svg", "/dock.svg", "/gemini.webp"],
     link: "https://lumen-ai.dev/",
   },
   {
-    id: 2, // Or the next available ID
+    id: 2,
     title: "FoodGram - MERN Stack App",
     des: "A full-stack video-sharing app for food discovery, inspired by TikTok/Reels. Features separate user and partner portals.",
-    img: "/foodgram.png", // You will need to create a preview image and add it as 'foodgram.png'
+    img: "/foodgram.png",
     iconLists: [
       "/re.svg",
       "/node.svg",
-      // "/express.jpg",
       "/mongo.svg",
       "/dock.svg",
-      // "/render.svg",
     ],
-    link: "https://github.com/AshutoshRaj1260/FoodGram",
+    link: "https://foodgram-sm83.onrender.com/",
   },
   {
     id: 3,
